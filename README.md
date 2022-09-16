@@ -17,7 +17,8 @@ Note: Tries --no-ff flag haha sorry about that.
 
 **Activity 4**
 
-**Activity 5**
+**Activity 5**  
+![image](https://user-images.githubusercontent.com/56566212/190663422-56f31af1-5360-460d-8ac6-06cf8ac2acce.png)
 
 **Activity 6**
 
