@@ -11,7 +11,9 @@ ECE444 lab 1
 Note: Tries --no-ff flag haha sorry about that.  
 ![image](https://user-images.githubusercontent.com/56566212/190658053-e942435f-0c0c-48b8-8fa0-c0436857ccc9.png)
 
-**Activity 3**
+**Activity 3**  
+![image](https://user-images.githubusercontent.com/56566212/190659869-ae139ddc-5d98-451e-816d-54845a5d7fc0.png)
+
 
 **Activity 4**
 
