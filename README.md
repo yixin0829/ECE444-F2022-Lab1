@@ -3,8 +3,8 @@
 ECE444 lab 1  
 **Name: Yixin Tian**
 
-## Activity 1
-
+## Activity 1  
+Create README and add submission skeleton inside:
 ![image](https://user-images.githubusercontent.com/56566212/190656027-cb3cf872-f6c7-4a44-9c45-630f96dbee88.png)
 
 ## Activity 2
@@ -16,12 +16,21 @@ Note: Tried --no-ff flag. Sorry about that if this is slightly inconsistent with
 ![image](https://user-images.githubusercontent.com/56566212/190659869-ae139ddc-5d98-451e-816d-54845a5d7fc0.png)
 
 
-## Activity 4
+## Activity 4  
+Teammate repo link: https://github.com/BojingJiang/ECE444-F2022-Lab1
 
-## Activity 5
+Commit to teammate's repo:  
+![image](https://user-images.githubusercontent.com/56566212/190837666-f115b755-2f8b-4243-b007-ce0e3861fdcd.png)
 
+Teammate's commit to my repo: 
+![image](https://user-images.githubusercontent.com/56566212/190837678-766b6858-7cfa-4677-b65d-ace0a35b5c8a.png)
+
+
+## Activity 5  
+Rebase code and output:  
 ![image](https://user-images.githubusercontent.com/56566212/190671675-a90f0332-55a6-4d13-a537-e9556ff76ae0.png)
 
+Git log output (c1, c2 after c4):  
 ![image](https://user-images.githubusercontent.com/56566212/190672044-c0aae1ce-04c8-4c58-9b6c-3bf64514ba96.png)
 
 
